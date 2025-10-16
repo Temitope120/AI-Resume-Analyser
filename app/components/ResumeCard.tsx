@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from "react-router"
-import ScoreGauge from "~/components/ScoreGuage";
+import ScoreCircle from "~/components/ScoreCircle";
 
 
 const ResumeCard = ({resume: {id, companyName, jobTitle, imagePath, resumePath, feedback}}: { resume: Resume }) => {
@@ -14,7 +14,7 @@ const ResumeCard = ({resume: {id, companyName, jobTitle, imagePath, resumePath, 
                     </div>
 
                     <div className="flex-shrink-0">
-                        <ScoreGauge score={feedback.overallScore}/>
+                        <ScoreCircle score={feedback.overallScore}/>
                     </div>
                 </div>
 
