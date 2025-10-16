@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ffda1aa-4615-4b60-b60f-22e75cd6981b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/auth.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/puter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/types/puter.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/root.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/root.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,9 @@
   "associatedIndex": 2
 }]]></component>
   <component name="ProjectId" id="347sBXdMJZ7Vzqj0X3P2WBOZfDW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760575811625</updated>
-      <workItem from="1760575813273" duration="8564000" />
+      <workItem from="1760575813273" duration="10318000" />
     </task>
     <servers />
   </component>
@@ -78,6 +86,12 @@
           <line>1</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/lib/puter.ts</url>
+          <line>4</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
